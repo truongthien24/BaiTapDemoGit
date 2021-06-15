@@ -1,5 +1,6 @@
 console.log('master');
 
+
 <<<<<<< HEAD
 function functionDeploy() {
     console.log('deployBranch');
